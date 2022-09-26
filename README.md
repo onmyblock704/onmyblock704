@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onmyblock704
 - 👀 I’m interested in ... web 3
-- 🌱 I’m currently learning ... web3 and ethereum
+- 🌱 I’m currently learning ... web3 and ethereum smart contracts 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
